@@ -67,3 +67,28 @@ if __name__ == "__main__":
 git add root_canal_analysis.py
 git commit -m "Add root canal CT analysis script"
 git push origin main
+# Root Canal Analysis Tool
+
+## 必要条件
+- Python 3.8以上
+- 以下のPythonライブラリ：
+  - numpy
+  - pandas
+  - SimpleITK
+  - matplotlib
+  - scikit-learn
+
+## セットアップ手順
+1. Zipファイルを解凍してください。
+2. 解凍したフォルダ内でターミナルを開き、以下のコマンドを実行してライブラリをインストールしてください：
+
+## 実行方法
+1. CTデータフォルダの準備：
+`ct_patient_data/` フォルダ内に、以下のように患者ごとにフォルダを用意してください：
+
+2. コードを実行：
+
+3. 成果がコンソールに出力され、可視化されたグラフが表示されます。
+
+## 注意
+- 医療データを取り扱う際は、倫理規定とプライバシーに十分配慮してください。
