@@ -87,8 +87,15 @@ git push origin main
 `ct_patient_data/` フォルダ内に、以下のように患者ごとにフォルダを用意してください：
 
 2. コードを実行：
+3. git clone https://github.com/your-username/RootCanalCTAnalysis.git
+cd RootCanalCTAnalysis
+git clone https://github.com/your-username/RootCanalCTAnalysis.git
+cd RootCanalCTAnalysis
+git clone https://github.com/your-username/RootCanalCTAnalysis.git
+cd RootCanalCTAnalysis
 
-3. 成果がコンソールに出力され、可視化されたグラフが表示されます。
+
+4. 成果がコンソールに出力され、可視化されたグラフが表示されます。
 
 ## 注意
 - 医療データを取り扱う際は、倫理規定とプライバシーに十分配慮してください。
